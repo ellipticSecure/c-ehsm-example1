@@ -1,0 +1,3 @@
+[submodule "ehsm-util-c"]
+	path = ehsm-util-c
+	url = git@github.com:ellipticSecure/ehsm-util-c.git
